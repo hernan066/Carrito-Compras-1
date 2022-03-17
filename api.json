@@ -1,38 +1,38 @@
 [
     {
-      "precio": 500,
+      "precio": 700,
       "id": 1,
-      "title": "Café",
-      "thumbnailUrl": "https://picsum.photos/id/0/600"
+      "title": "Oxelote",
+      "thumbnailUrl": "img/A01.jpg"
+    },
+    {
+      "precio": 600,
+      "id": 2,
+      "title": "Goldenfish",
+      "thumbnailUrl": "img/A99.jpg"
     },
     {
       "precio": 300,
-      "id": 2,
-      "title": "Pizza",
-      "thumbnailUrl": "https://picsum.photos/id/10/600"
-    },
-    {
-      "precio": 100,
       "id": 3,
-      "title": "Agua",
-      "thumbnailUrl": "https://picsum.photos/id/20/600"
+      "title": "Tetra",
+      "thumbnailUrl": "img/A20.jpg"
     },
     {
-      "precio": 50,
+      "precio": 500,
       "id": 4,
-      "title": "Sandía",
-      "thumbnailUrl": "https://picsum.photos/id/30/600"
+      "title": "Betagris",
+      "thumbnailUrl": "img/A17.jpg"
     },
     {
-      "precio": 10,
+      "precio": 500,
       "id": 5,
-      "title": "Mango",
-      "thumbnailUrl": "https://picsum.photos/id/40/600"
+      "title": "Betanaranja",
+      "thumbnailUrl": "img/A19.jpg"
     },
     {
-      "precio": 150,
+      "precio": 650,
       "id": 6,
-      "title": "Melon",
-      "thumbnailUrl": "https://picsum.photos/id/50/600"
+      "title": "Escalar",
+      "thumbnailUrl": "img/A13.jpg"
     }
   ]
